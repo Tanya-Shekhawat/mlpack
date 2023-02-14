@@ -1,0 +1,12 @@
+
+pandas -> pip install pandas
+
+numpy -> pip install numpy
+
+matplotlib -> pip install matplotlib
+
+seaborn -> pip install seaborn
+
+pandas_profiling -> !pip install https://github.com/pandas-profiling/pandas-profiling/archive/master.zip
+
+klib -> !pip install klib
